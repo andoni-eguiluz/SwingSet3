@@ -1,0 +1,11 @@
+Notas de instalación
+
+Tomado de https://github.com/sjas/swingset3  (noviembre 2015)
+
+Incluir en libraries todos los jars de la carpeta lib
+Incluir también el jnlp.jar (en los samples de JDK - sample/jnlp/servlet)
+
+Construir los ejecutables en la misma carpeta de los fuentes (output folder = src)
+
+Un pequeño cambio en la clase demos.table.TableDemo.java (línea 431):
+    RowFilter<OscarTableModel, Integer>  en vez de  RowFilter<Object, Object>
