@@ -7,6 +7,6 @@
 	<classpathentry kind="lib" path="lib/swing-worker.jar"/>
 	<classpathentry kind="lib" path="lib/swingx.jar"/>
 	<classpathentry kind="lib" path="lib/TimingFramework.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_66/sample/jnlp/servlet/jnlp.jar"/>
+	<classpathentry kind="lib" path="D:/desarrollo/demos-Java/jdk1.8.0_131/sample/jnlp/servlet/jnlp.jar"/>
 	<classpathentry kind="output" path="src"/>
 </classpath>
